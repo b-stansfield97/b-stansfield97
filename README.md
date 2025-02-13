@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ben Stansfield, I am the Manager of Computational Biology for UGenome AI
-- 👀 I’m interested in Bioinformatics, Whole Genome CRISPR screening and Cancer Genomics
+- 👋 Hi, I’m Ben Stansfield, I am the Director of Computational Biology for UGenome AI
+- I specialize in large scale genomic data analysis including, scRNA-Seq, WGS, WES, RNA-Seq and ChIP-Seq
 - I have profficiences in R, Python and Shell Scripting as well as extensive experience with AWS and Azure cloud computing platforms
 
 <!---
