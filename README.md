@@ -10,23 +10,28 @@ Computational biologist specialising in large-scale genomic data analysis and bi
 
 **Sequencing & Analysis**
 - Single-cell & single-nucleus RNA-Seq (scRNA-Seq, snRNA-Seq)
+- Bulk RNA-Seq 
 - Whole Genome & Whole Exome Sequencing (WGS, WES)
-- Somatic & germline mutation calling
-- RNA-Seq differential expression analysis
+- Somatic & germline mutation calling (SNV, CNV, SV)
 - ChIP-Seq & epigenomic profiling
 - Extrachromosomal DNA (ecDNA) detection
+- Pharmacogenomics (PGx)
+- Nutrigenomics
+- HLA Typing
 
 **Languages & Frameworks**
 - R, Python, Bash/Shell scripting
-- Nextflow, Snakemake
+- Nextflow, Snakemake, Git, 
 
 **Bioinformatics Tools**
-- GATK, BWA, SAMtools, Picard, Ensembl VEP, AmpliconSuite
-- DESeq2, Seurat, Scanpy, Monocle, ggplot2
+- GATK, DeepVariant, Bowtie2,BWA, SAMtools
+- Picard, Ensembl VEP, AmpliconSuite, BCFtools
+- DESeq2, Seurat, Scanpy, Monocle, ggplot2, LIMA
+- STAR, STAR Solo, ANNOVAR, MultiQC, FASTP, OptiType
 
 **Infrastructure & Containers**
-- AWS, Azure
-- Docker, Apptainer
+- AWS, AWS Health Omics, Azure
+- Docker, Apptainer/Singularity
 
 ## Links
 
