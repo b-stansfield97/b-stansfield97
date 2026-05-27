@@ -1,10 +1,10 @@
-# Ben Stansfield
+# Dr Ben Stansfield, PhD
 
-**Director of Computational Biology** at UGenome AI | PhD Researcher
+**Director of Computational Biology** at UGenome AI
 
 ## About
 
-Computational biologist specialising in large-scale genomic data analysis and bioinformatics pipeline development. Currently completing a PhD while leading computational biology at UGenome AI.
+Computational biologist specialising in large-scale genomic data analysis and bioinformatics pipeline development.
 
 ## Expertise
 
